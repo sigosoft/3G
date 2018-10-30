@@ -1,0 +1,2 @@
+[03-Oct-2018 11:18:42 Etc/GMT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/ourworks/public_html/3G/application/models/Filterapi_model.php on line 20
+[08-Oct-2018 11:36:07 Etc/GMT] PHP Fatal error:  Call to undefined method Product_model::getuid() in /home/works/public_html/3G/application/controllers/Product.php on line 73
